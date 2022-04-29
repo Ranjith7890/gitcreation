@@ -1,0 +1,6 @@
+KT- training
+-------------------------
+data transfer objects
+mysql joins
+git basics
+design patterns
